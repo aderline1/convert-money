@@ -1,7 +1,7 @@
 <h1>Code Club Convert Money</h1>
 <br>
 <br>
-<h2>Esse projeto é um conversor de Moedas que desenvolvi durante o aprendizado no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Esse projeto é um conversor de Moedas que desenvolvi durante o aprendizado no <a href="https://rodolfomori.com.br/devclub">DevClub</a>, o mesmo está cosnumindo uma API que converte os valores de acordo com a cotação real do dia.</h2>
 <br>
 <br>
 <br>
