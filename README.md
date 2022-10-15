@@ -17,10 +17,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" Alt="logo-java">
 <br>
 <br>
-<img src="https://github.com/aderline1/Code-club-convert-money/blob/master/Captura%20de%20Tela%20(54).png?raw=true" Alt="logo euro">  
+<img src="https://github.com/aderline1/convert-money/blob/master/Captura%20de%20Tela%20(54).png?raw=true" Alt="logo euro">  
 <br>
 <br>
-<img src="https://github.com/aderline1/Code-club-convert-money/blob/master/Captura%20de%20Tela%20(55).png?raw=true" Alt="logo Bitcoin">  
+<img src="https://github.com/aderline1/convert-money/blob/master/Captura%20de%20Tela%20(55).png?raw=true" Alt="logo Bitcoin">  
 <br>
 <br>
-<img src="https://github.com/aderline1/Code-club-convert-money/blob/master/Captura%20de%20Tela%20(56).png?raw=true" Alt= "logo Dólar">  
+<img src="https://github.com/aderline1/convert-money/blob/master/Captura%20de%20Tela%20(56).png?raw=true" Alt= "logo Dólar">  
