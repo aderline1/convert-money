@@ -1,7 +1,7 @@
 <h1>Code Club Convert Money</h1>
 <br>
 <br>
-<h2>Esse  foi um novo projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Esse projeto é um conversor de Moedas que desenvolvi durante o aprendizado no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <br>
 <br>
