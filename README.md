@@ -1,7 +1,7 @@
 <h1>Code Club Convert Money</h1>
 <br>
 <br>
-<h2>Esse  foi um novo projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Esse projeto é um conversor de Moedas que desenvolvi durante o aprendizado no <a href="https://rodolfomori.com.br/devclub">DevClub</a>, o mesmo está cosnumindo uma API que converte os valores de acordo com a cotação real do dia.</h2>
 <br>
 <br>
 <br>
@@ -17,10 +17,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" Alt="logo-java">
 <br>
 <br>
-<img src="https://github.com/aderline1/Code-club-convert-money/blob/master/Captura%20de%20Tela%20(54).png?raw=true" Alt="logo euro">  
+<img src="https://github.com/aderline1/convert-money/blob/master/Captura%20de%20Tela%20(54).png?raw=true" Alt="logo euro">  
 <br>
 <br>
-<img src="https://github.com/aderline1/Code-club-convert-money/blob/master/Captura%20de%20Tela%20(55).png?raw=true" Alt="logo Bitcoin">  
+<img src="https://github.com/aderline1/convert-money/blob/master/Captura%20de%20Tela%20(55).png?raw=true" Alt="logo Bitcoin">  
 <br>
 <br>
-<img src="https://github.com/aderline1/Code-club-convert-money/blob/master/Captura%20de%20Tela%20(56).png?raw=true" Alt= "logo Dólar">  
+<img src="https://github.com/aderline1/convert-money/blob/master/Captura%20de%20Tela%20(56).png?raw=true" Alt= "logo Dólar">  
